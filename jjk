@@ -1,0 +1,78 @@
+*   [33mcommit 3bc9602e43f9e2c36b8929c5142b713fbbe14d72[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: b781d7a 4bc1bfb
+[31m|[m [32m|[m Author: 孔宝军 <1371904743@qq.com>
+[31m|[m [32m|[m Date:   Fri Sep 1 19:37:53 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     冲突
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 4bc1bfb79698c2cc0c2b4029cdba1886c22c372b[m
+[31m|[m [32m|[m Author: 孔宝军 <1371904743@qq.com>
+[31m|[m [32m|[m Date:   Fri Sep 1 14:06:01 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     测试第二次提交
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit b781d7a856b6a64db8511dcac8e4ce3d1ca8a577[m
+[32m|[m[32m/[m  Author: 孔宝军 <1371904743@qq.com>
+[32m|[m   Date:   Fri Sep 1 19:34:00 2017 +0800
+[32m|[m   
+[32m|[m        简单提交
+[32m|[m 
+* [33mcommit e165e221bae7f882da945cb6f7015235ad16c4d4[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Fri Sep 1 11:58:07 2017 +0800
+[32m|[m 
+[32m|[m     分支测试
+[32m|[m 
+* [33mcommit 14ccdace68c2bdf2ef0a0eec8dba4fc0a6f59b59[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Thu Aug 31 15:16:25 2017 +0800
+[32m|[m 
+[32m|[m     增加
+[32m|[m 
+* [33mcommit 1e7397411cdccb26f52412db66d0693b5f0c0aa5[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Thu Aug 31 14:44:29 2017 +0800
+[32m|[m 
+[32m|[m     增加文件
+[32m|[m 
+* [33mcommit 2c52760f431fcd1f7ae1d6022a9319e5395205e4[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Thu Aug 31 14:14:17 2017 +0800
+[32m|[m 
+[32m|[m     测试删除文件
+[32m|[m 
+* [33mcommit fcd7c7710b21714a42f1bf61fdd345392cc07b42[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Wed Aug 30 20:31:00 2017 +0800
+[32m|[m 
+[32m|[m     第二次修改
+[32m|[m 
+* [33mcommit 6457c65b5786be30a733d78328fabe2d127f2741[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Wed Aug 30 20:27:19 2017 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m 
+* [33mcommit 1859752c574f3fa35eae3983f568b1b43054621b[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Wed Aug 30 20:16:27 2017 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m 
+* [33mcommit 006d5c4c20f2294b37f114389bbea351d348c0ea[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Wed Aug 30 19:19:15 2017 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m 
+* [33mcommit 964c5e2c4ce2aa19004dce0efd003ac8aa0310a8[m
+[32m|[m Author: 孔宝军 <1371904743@qq.com>
+[32m|[m Date:   Wed Aug 30 17:27:55 2017 +0800
+[32m|[m 
+[32m|[m     add distributed
+[32m|[m 
+* [33mcommit 6146d38648806996250525df75a42adc3589164f[m
+  Author: 孔宝军 <1371904743@qq.com>
+  Date:   Wed Aug 30 17:17:07 2017 +0800
+  
+      wrote a readme file
